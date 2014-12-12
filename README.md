@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Greetings, world. Take me to your leader. ...What is that? You do not have a leader? Oh well.
+Hi, so Github has a [tutorial](https://guides.github.com/activities/hello-world/) where they teach you how to Hub your Git. That is what this is.
